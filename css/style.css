@@ -2,7 +2,6 @@ body{
   font-family: 'Quicksand', sans-serif;
 }
 
-
 .logo img {
   height: 400px;
   margin: auto;
@@ -17,13 +16,13 @@ h2 {
 }
 
 .verticalLine {
-  border-left: thin solid grey;
+  border-left: dotted grey;
 }
 
 .rostercontain{
-  padding-left: 10px;
+  padding-left: 30px;
 }
 
-#rostertab{
-  padding-left: 10px;
+.espn{
+  height: 15px;
 }
