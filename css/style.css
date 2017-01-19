@@ -1,0 +1,29 @@
+body{
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+.logo img {
+  height: 400px;
+  margin: auto;
+  display: block;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+h2 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.verticalLine {
+  border-left: thin solid grey;
+}
+
+.rostercontain{
+  padding-left: 10px;
+}
+
+#rostertab{
+  padding-left: 10px;
+}
